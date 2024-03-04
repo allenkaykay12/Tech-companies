@@ -5,3 +5,6 @@ seaborn
 numpy
 sklearn
 time
+pyngrok
+htbuilder
+plotly
